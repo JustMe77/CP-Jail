@@ -26,7 +26,7 @@ new bool:pJailed[MAX_PLAYERS];
 new bool:jTextCreated[MAX_PLAYERS];
 new PlayerText:CheckpointTD[MAX_PLAYERS][7];
 
-
+ 
 
 enum pOldData
 {
